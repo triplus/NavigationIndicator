@@ -14,8 +14,9 @@
    height="64"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="NavigationGesture.svg">
+   inkscape:version="0.91+devel+osxmenu r12922"
+   sodipodi:docname="NavigationGesture.svg"
+   viewBox="0 0 64 64">
   <defs
      id="defs4">
     <linearGradient
@@ -42,29 +43,35 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.6875"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:zoom="10.485537"
+     inkscape:cx="25.996611"
+     inkscape:cy="29.254227"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1235"
-     inkscape:window-height="1000"
-     inkscape:window-x="45"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:window-width="2560"
+     inkscape:window-height="1328"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
+     inkscape:bbox-paths="false"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:snap-nodes="false" />
+     inkscape:snap-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8158"
+       spacingx="2"
+       spacingy="2" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -82,52 +89,43 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-988.36218)">
-    <g
-       id="g3349"
-       transform="translate(3.8937735e-5,-0.10191654)">
-      <path
-         transform="scale(-1,-1)"
-         d="m -34.520214,-998.36266 a 17.030224,17.030224 0 0 1 -12.042187,-4.98804 17.030224,17.030224 0 0 1 -4.988037,-12.0422"
-         sodipodi:open="true"
-         sodipodi:end="3.1415927"
-         sodipodi:start="1.5707963"
-         sodipodi:ry="17.030224"
-         sodipodi:rx="17.030224"
-         sodipodi:cy="-1015.3929"
-         sodipodi:cx="-34.520214"
-         sodipodi:type="arc"
-         id="path4213"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#555753;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <circle
-         r="9"
-         cy="-215.19794"
-         cx="-989.6734"
-         style="fill:#2e3436;fill-opacity:1"
-         id="ellipse4220"
-         transform="matrix(-0.26236841,-0.96496778,0.96496778,-0.2623684,0,0)" />
-    </g>
-    <g
-       id="g3353"
-       transform="translate(1.0000085,0.1019113)">
-      <path
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#555753;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="path4268"
-         sodipodi:type="arc"
-         sodipodi:cx="31.479723"
-         sodipodi:cy="1023.3315"
-         sodipodi:rx="17.030224"
-         sodipodi:ry="17.030224"
-         sodipodi:start="1.5707963"
-         sodipodi:end="3.1415927"
-         sodipodi:open="true"
-         d="m 31.479723,1040.3617 a 17.030224,17.030224 0 0 1 -12.042187,-4.988 17.030224,17.030224 0 0 1 -4.988037,-12.0422" />
-      <circle
-         r="9"
-         transform="matrix(0.26236841,0.96496778,-0.96496778,0.2623684,0,0)"
-         id="circle4270"
-         style="fill:#2e3436;fill-opacity:1"
-         cx="994.94635"
-         cy="256.01114" />
-    </g>
+    <ellipse
+       ry="12.000111"
+       rx="12.000021"
+       transform="rotate(74.789233)"
+       id="ellipse8166"
+       style="fill:#2e3436;fill-opacity:1;stroke-width:1"
+       cx="980.36517"
+       cy="214.74193" />
+    <path
+       d="m 28.479659,1042.4638 a 17.030224,17.030224 0 0 1 -12.042188,-4.988 17.030224,17.030224 0 0 1 -4.988037,-12.0422"
+       sodipodi:open="true"
+       sodipodi:end="3.1415927"
+       sodipodi:start="1.5707963"
+       sodipodi:ry="17.030224"
+       sodipodi:rx="17.030224"
+       sodipodi:cy="1025.4336"
+       sodipodi:cx="28.479658"
+       sodipodi:type="arc"
+       id="path4268"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#555753;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <ellipse
+       cy="258.92609"
+       cx="1005.6586"
+       style="fill:#2e3436;fill-opacity:1;stroke-width:1"
+       id="circle4270"
+       transform="rotate(74.789233)"
+       rx="12.000021"
+       ry="12.000111" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:none;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2e3436;fill-opacity:0.627451;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 31.980469 2.0273438 L 31.980469 2.0292969 C 24.384692 2.0342969 16.790053 4.8909831 10.980469 10.595703 A 5.0005 5.0005 0 1 0 17.986328 17.730469 C 23.480523 12.335439 31.226145 10.74616 38.0625 12.933594 A 12.000021 12.000111 74.789233 0 1 43.152344 4.1601562 C 39.576519 2.736885 35.778357 2.0248237 31.980469 2.0273438 z "
+       transform="translate(0,988.36218)"
+       id="path8184" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:none;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2e3436;fill-opacity:0.627451;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 49.529297 44.699219 A 5.0005 5.0005 0 0 0 46.085938 46.199219 C 40.59147 51.650419 32.807226 53.263232 25.9375 51.064453 A 12.000021 12.000111 74.789233 0 1 20.849609 59.837891 C 31.626809 64.12509 44.418117 61.939051 53.128906 53.296875 A 5.0005 5.0005 0 0 0 49.529297 44.699219 z "
+       transform="translate(0,988.36218)"
+       id="circle8192" />
   </g>
 </svg>

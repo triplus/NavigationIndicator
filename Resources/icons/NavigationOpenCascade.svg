@@ -14,8 +14,8 @@
    viewBox="0 0 63.999999 63.999999"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="NavigationCAD.svg">
+   inkscape:version="0.91+devel+osxmenu r12922"
+   sodipodi:docname="NavigationOpenCascade.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.828125"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:zoom="6.5828565"
+     inkscape:cx="27.083897"
+     inkscape:cy="14.204416"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -46,11 +46,17 @@
      inkscape:snap-nodes="true"
      inkscape:snap-page="false"
      inkscape:snap-grids="true"
-     inkscape:window-width="1235"
-     inkscape:window-height="1000"
-     inkscape:window-x="45"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2560"
+     inkscape:window-height="1328"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8150"
+       spacingx="2"
+       spacingy="2" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -59,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,15 +75,40 @@
      id="layer1"
      transform="translate(0,-988.3622)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#2e3436;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 16,1028.3622 0,-20 c 0,-8 4,-12 16,-12 12,0 16,4 16,12 l 0,20 c 0,8 -4,17 -16,17 -12,0 -16,-9 -16,-17 z"
-       id="path4144"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       id="path8165"
+       d="m 26,1040.3622 -8,-8 8,-8 8,8 z"
+       style="fill:#2e3436;fill-opacity:0.90196079;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#2e3436;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 32,1004.3622 0,12"
-       id="path4209"
+       sodipodi:nodetypes="ccccc"
+       style="fill:#2e3436;fill-opacity:0.82352942;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14,1028.3622 -8,-8 8,-8 8,8 z"
+       id="path8167"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8169"
+       d="m 26,1016.3622 -8,-8 8,-8 8,8 z"
+       style="fill:#2e3436;fill-opacity:0.74509805;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#2e3436;fill-opacity:0.66666669;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 38,1004.3622 -8,-8 8,-8 8,8 z"
+       id="path8171"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8173"
+       d="m 50,1016.3622 -8,-8 8,-8 8,8 z"
+       style="fill:#2e3436;fill-opacity:0.58823532;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 38,1052.3622 -8,-8 8,-8 8,8 z"
+       id="path8175"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
