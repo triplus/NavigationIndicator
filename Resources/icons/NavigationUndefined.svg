@@ -14,7 +14,7 @@
    viewBox="0 0 63.999999 63.999999"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91+devel+osxmenu r12922"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="NavigationUndefined.svg">
   <defs
      id="defs4" />
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="12.828125"
-     inkscape:cx="6.8989039"
+     inkscape:cx="32"
      inkscape:cy="32"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -46,11 +46,11 @@
      inkscape:snap-nodes="true"
      inkscape:snap-page="false"
      inkscape:snap-grids="true"
-     inkscape:window-width="1680"
-     inkscape:window-height="939"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1235"
+     inkscape:window-height="1000"
+     inkscape:window-x="45"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,11 +69,11 @@
      id="layer1"
      transform="translate(0,-988.3622)">
     <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       id="path8152"
+       style="fill:none;fill-rule:evenodd;stroke:#a40000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 16,1028.3622 0,-20 c 0,-8 4,-12 16,-12 12,0 16,4 16,12 l 0,20 c 0,8 -4,17 -16,17 -12,0 -16,-9 -16,-17 z"
-       style="fill:#a40000;fill-rule:evenodd;stroke:#a40000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.23529412" />
+       id="path4144"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#a40000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 32,1004.3622 0,12"
