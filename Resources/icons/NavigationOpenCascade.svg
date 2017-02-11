@@ -1,96 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
-   viewBox="0 0 63.999999 63.999999"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91+devel+osxmenu r12922"
-   sodipodi:docname="NavigationOpenCascade.svg">
-  <defs
-     id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="9.0979527"
-     inkscape:cx="28.622823"
-     inkscape:cy="27.473714"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     units="px"
-     inkscape:snap-to-guides="true"
-     inkscape:snap-bbox="false"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:object-paths="false"
-     inkscape:snap-intersection-paths="false"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="false"
-     inkscape:snap-midpoints="false"
-     showguides="false"
-     inkscape:snap-others="false"
-     inkscape:snap-nodes="true"
-     inkscape:snap-page="false"
-     inkscape:snap-grids="true"
-     inkscape:window-width="1680"
-     inkscape:window-height="945"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid8150"
-       spacingx="2"
-       spacingy="2" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-988.3622)">
-    <path
-       style="fill:#2e3436;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 38,1050.3622 -12,-12 12,-12 12,12 z"
-       id="path8155"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path8161"
-       d="m 20,1032.3622 -12,-12 12,-12 12,12 z"
-       style="fill:#2e3335;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.82352942" />
-    <path
-       style="fill:#2e3335;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.58823532"
-       d="m 38,1014.3622 -12,-12 12,-12 12,12 z"
-       id="path8163"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-  </g>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 63.999999 63.999999">
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" fill-rule="evenodd" transform="translate(0 -988.36)">
+  <path id="path8155" d="m38 1050.4-12-12 12-12 12 12z" fill="#2e3436"/>
+  <path id="path8161" d="m20 1032.4-12-12 12-12 12 12z" fill-opacity=".82353" fill="#2e3335"/>
+  <path id="path8163" d="m38 1014.4-12-12 12-12 12 12z" fill-opacity=".58824" fill="#2e3335"/>
+ </g>
 </svg>

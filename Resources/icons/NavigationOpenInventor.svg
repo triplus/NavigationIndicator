@@ -1,103 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="NavigationOpenInventor.svg"
-   viewBox="0 0 64 64">
-  <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient5985"
-       osb:paint="solid">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5987" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5660"
-       osb:paint="solid">
-      <stop
-         style="stop-color:#2e3436;stop-opacity:1;"
-         offset="0"
-         id="stop5662" />
-    </linearGradient>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="12.125"
-     inkscape:cx="33.201854"
-     inkscape:cy="30.240791"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:window-width="1235"
-     inkscape:window-height="1000"
-     inkscape:window-x="45"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="false"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-bbox-midpoints="false"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-nodes="true"
-     inkscape:snap-grids="true" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-988.36218)">
-    <g
-       id="g3341"
-       transform="matrix(0.93333254,0,0,0.92592541,2.1333588,75.582906)">
-      <path
-         id="path8233"
-         d="m 9.4999808,1006.8621 0,27.0001 22.5000192,13.5 22.500019,-13.5 0,-27.0001 -22.500019,13.5 -22.5000192,-13.5 z"
-         style="fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path8251"
-         d="M 9.4999808,1006.8622 32,993.36217 54.500019,1006.8622 32,1020.3622 Z"
-         style="fill:#2e3436;fill-opacity:0.58823529;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="64" viewBox="0 0 64 64" width="64" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -988.36)">
+  <g id="g3341" fill-rule="evenodd" fill="#2e3436" transform="matrix(.93333 0 0 .92593 2.1334 75.583)">
+   <path id="path8233" d="m9.5 1006.9v27l22.5 13.5 22.5-13.5v-27l-22.5 13.5-22.5-13.5z"/>
+   <path id="path8251" d="m9.5 1006.9 22.5-13.54 22.5 13.54-22.5 13.5z" fill-opacity=".58824"/>
   </g>
+ </g>
 </svg>

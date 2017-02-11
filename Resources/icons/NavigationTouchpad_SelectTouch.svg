@@ -13,16 +13,13 @@
  <g id="layer1" transform="translate(0 -988.36)">
   <g fill-rule="evenodd">
    <rect id="rect4140" style="color:#000000" ry="10" height="56" width="56" y="992.36" x="4" fill="#eeeeec"/>
-   <g stroke="#2e3436">
-    <path id="path4144" d="m16 1027.9v-20c0-8 4-12.5 16-12.5s16 4.5 16 12.5v20c0 8-4 17.5-16 17.5s-16-9.5-16-17.5z" stroke-width="2" fill="#fff"/>
-    <path id="path4195" d="m17 1010.9c-0.13863-10 1.4688-14.5 15-14.5v14.5z" stroke-width=".5" fill="#729fcf"/>
-    <path id="path4197" d="m47 1010.9c0.13863-10-1.4688-14.5-15-14.5v14.5z" stroke-width=".5" fill="#fff"/>
-   </g>
+   <path id="path4144" d="m12 1002.4v35c0 4 0 4 20 4 21 0 21 0 21-4v-35c0-3 0-3-21-3-20-0.00004-20-0.00004-20 3z" stroke="#2e3436" stroke-width="2" fill="#fff"/>
+   <path id="path4195" d="m13 1028.4c0 9-1 12 2 12h16v-12z" stroke="#2e3436" stroke-width=".5" fill="#729fcf"/>
   </g>
   <g stroke="#2e3436">
-   <path id="path4169" d="m32 1011.9v-16.5" stroke-width="2" fill="none"/>
-   <path id="path4167" d="m16 1011.9h32" stroke-width="2" fill="none"/>
-   <rect id="rect4139" height="18" stroke-linecap="round" stroke-width="1.6" fill="#fff" style="color:#000000" fill-rule="evenodd" ry="3.5" width="8" y="1002.9" x="28"/>
+   <path id="path4169" d="m32 1027.4v14" stroke-width="2" fill="none"/>
+   <path id="path4167" d="m12 1027.4h41" stroke-width="2" fill="none"/>
+   <path id="path4154" d="m52 1028.4c0 10 1 12-2 12h-17v-12z" fill-rule="evenodd" stroke-width=".5" fill="#fff"/>
   </g>
  </g>
 </svg>
