@@ -423,10 +423,10 @@ def navigationIndicator():
     if p.GetBool("Tooltip", 1):
         aTooltip.setChecked(True)
 
-    if pView.GetInt("OrbitStyle", 1) == 0:
-        aTrackball.setChecked(True)
-    else:
+    if pView.GetInt("OrbitStyle", 1):
         aTurntable.setChecked(True)
+    else:
+        aTrackball.setChecked(True)
 
     onCompact()
     onTooltip()
@@ -446,4 +446,10 @@ def navigationIndicator():
     timer.start(10000)
 
 
-navigationIndicator()
+try:
+    if FreeCAD.Version()[1] <= "16":
+        navigationIndicator()
+    else:
+        pass
+except:
+    pass
