@@ -1,5 +1,5 @@
-# NavigationIndicator
-Navigation indicator for FreeCAD
+# Navigation indicator
+Navigation indicator for FreeCAD 0.16. Starting with FreeCAD 0.17 navigation indicator is part of the default FreeCAD experience.
 
 ### Installation:
 
