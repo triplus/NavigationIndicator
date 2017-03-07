@@ -337,9 +337,9 @@ def navigationIndicator():
         """Set compact mode."""
 
         if p.GetBool("Compact", 0):
-            indicator.setText(action.text())
-        else:
             indicator.setText("")
+        else:
+            indicator.setText(action.text())
 
     def onTooltip():
         """Enable or disable verbose tooltips."""
@@ -433,7 +433,7 @@ def navigationIndicator():
 
         gStyle.blockSignals(False)
 
-    if p.GetBool("Compact"):
+    if p.GetBool("Compact", 0):
         aCompact.setChecked(True)
 
     if p.GetBool("Tooltip", 1):
